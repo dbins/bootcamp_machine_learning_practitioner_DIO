@@ -1,0 +1,22 @@
+Links Úteis 
+Separamos aqui alguns materiais complementares como artigos, apostilas, apresentações, entre outros. Esses materiais serão úteis para você se aprofundar ainda mais nos principais temas deste Módulo, listados a seguir:
+
+Tensorflow 
+
+https://www.tensorflow.org/resources/learn-ml?gclid=CjwKCAjwrNmWBhA4EiwAHbjEQJ_SqGecFCvxOJi66EVJYNrDD5dJ8EIuy0Dkx-l5Pb1-LB3cczLKdxoCCp4QAvD_BwE 
+
+Pytorch 
+
+https://pytorch.org/ 
+
+Scikit-learn 
+
+https://scikit-learn.org/stable/ 
+
+Pandas 
+
+https://pandas.pydata.org/ 
+
+Keras 
+
+https://keras.io/ 
